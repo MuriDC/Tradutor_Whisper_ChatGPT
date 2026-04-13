@@ -7,3 +7,8 @@ Gravação de Áudio Com Python;
 Reconhecimento de Fala com Whisper;
 Integração com a API do ChatGPT;
 Sintetizara Resposta do ChatGPT Como Voz (gTTS);
+
+# Acessar o projeto
+Para acessar o projeto basta entrar no link: https://colab.research.google.com/drive/1ByqZvlJ_Q5fz7dx8iD5vJ06H9JyKGbb_?usp=sharing
+
+Vou transformar em arquivo do git em um futuro próximo, mas gostaria de apresentar os últimos resultados que podem ser acessados no link
